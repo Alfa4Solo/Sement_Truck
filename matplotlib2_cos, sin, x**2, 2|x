@@ -10,7 +10,7 @@ y4 = [2 / i for i in x]
 plt.figure(figsize=(5, 7))
 plt.subplot(4, 1, 1)
 plt.plot(x, y1, "r")
-plt.title("Зависимости y1= cos(x), y2 = sin(x), y3 = x^2, y4 = 2/x")
+plt.title("Зависимости y1= cos(x), y2 = sin(x), y3 = x^2, y4 = 2/x"
 plt.ylabel("y1", fontsize=12)
 plt.grid(True)
 plt.subplot(4, 1, 2)
