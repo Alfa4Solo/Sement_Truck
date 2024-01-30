@@ -1,0 +1,33 @@
+p {text-align: center;}
+table {
+    width 450px;
+    border
+    text-align: center;
+    border: 1px;
+    background: #'CCFFCC';
+}
+h1 {
+    font-family: Arial;
+    color: blue;
+}
+body {
+    background: #'ffd300';
+    text-color: #'ffffff';
+    font-family: Georgia;
+}
+hr  {
+    color: #'00ff00';
+}
+a:hover {
+    text-decoration: none;
+    color: orange;
+}
+a:visited   {
+    text-decoration: underline;
+    color: green;
+}
+a:active   {
+    text-decoration: underline;
+    color: blue;
+    font-weight: bold;
+}
